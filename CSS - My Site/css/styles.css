@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: #40514E;
+    background-color: #F9E0AE;
+ }
+h1 {
+    font-size: 5.625rem;
+    margin:50px auto 0 auto 0;
+    font-family: 'Righteous', cursive;
+    color: #C24914;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+    color: #C24914;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3 {
+    background-color: #F9E0AE;
+    font-family: 'Raleway', sans-serif;
+    color: #682C0E;
+}
+p {
+    line-height: 2;
+}
+hr {
+    border: dotted;
+    color: #F9B208;
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto;
+    
+}
+a {
+    color: #40514E;
+    margin: 10px 20px;
+    font-family:'Raleway', sans-serif;
+    text-decoration: none ;
+}
+a:hover {
+    color: #F9E0AE;
+}
+.attribution { 
+    color: #682C0E;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.top-container {
+    background-color: #F9E0AE;
+    position: relative;
+    padding-top: 100px;
+    line-height: 2em;
+}
+.middle-container {
+    margin: 100px 0;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 200px auto;
+    text-align: left;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
+    color: #682C0E;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.bottom-container {
+
+    background-color:#FC8621 ;
+    
+    padding: 50px 0 20px;
+    
+    font-family:'Raleway', sans-serif;
+    
+    }
+
+    .my-button{
+
+        background: #C24914;
+      
+        background-image: -webkit-linear-gradient(top, #C24914, #682C0E);
+      
+        background-image: -moz-linear-gradient(top, #C24914, #682C0E);
+      
+        background-image: -ms-linear-gradient(top, #C24914, #682C0E);
+      
+        background-image: -o-linear-gradient(top, #C24914, #682C0E);
+      
+        background-image: linear-gradient(top, #C24914, #682C0E);
+      
+        -webkit-border-radius: 8;
+      
+        -moz-border-radius: 8;
+      
+        border-radius: 8px;
+      
+        font-family: 'Righteous', cursive;
+      
+        color: #F9E0AE;
+      
+        font-size: 20px;
+      
+        padding: 10px 20px 10px 20px;
+      
+        text-decoration: none;
+      
+      }
+      
+      .my-button:hover{
+      
+        background: #FC8621;
+      
+        background-image: -webkit-linear-gradient(top, #FC8621, #C24914);
+      
+        background-image: -moz-linear-gradient(top, #FC8621, #C24914);
+      
+        background-image: -ms-linear-gradient(top, #FC8621, #C24914);
+      
+        background-image: -o-linear-gradient(top, #FC8621, #C24914);
+      
+        background-image: linear-gradient(top, #FC8621, #C24914);
+      
+        text-decoration: none;
+      
+      
+      
+      }
+
+    
+.footer-link {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    font-family: 'Raleway', sans-serif;
+}
+.bottom-vines {
+    width: 25%;
+    position: absolute;
+    left: 0px;
+    bottom: 200px;
+}
+.top-vines {
+    width: 25%;
+    position: absolute;
+    right: 50px;
+    top: 0px;
+}
+.coding-pic {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.fashion-design {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+    
+}
+.earth-sticker {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    
+}
